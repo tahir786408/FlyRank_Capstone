@@ -1,0 +1,1 @@
+# Project Stack - Frontend: React (or vanilla JS) - Backend: Node.js, Express - Database: MongoDB # Conventions - Use Conventional Commits (feat:, fix:, docs:, chore:) - Component files in PascalCase - Keep functions small and single-purpose - Write clear commit messages
